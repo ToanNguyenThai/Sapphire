@@ -1,0 +1,19 @@
+.body {
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  /* 3 dòng dưới đây để căn giữa khối màu tím */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-color: #1c233d;
+  width: 1024px;
+  height: 849px;
+}
+header {
+  width: 100%;
+  height: 100px;
+  background-color: #fff;
+}
